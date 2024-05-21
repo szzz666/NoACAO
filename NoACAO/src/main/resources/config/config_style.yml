@@ -1,0 +1,36 @@
+'0': "color:#000000;"  # 黑色
+'1': "color:#0000AA;"  # 深蓝色
+'2': "color:#00AA00;"  # 深绿色
+'3': "color:#00AAAA;"  # 深青色
+'4': "color:#AA0000;"  # 深红色
+'5': "color:#AA00AA;"  # 深紫色
+'6': "color:#FFAA00;"  # 金色
+'7': "color:#AAAAAA;"  # 灰色
+'8': "color:#555555;"  # 深灰色
+'9': "color:#5555FF;"  # 蓝色
+'a': "color:#55FF55;"  # 绿色
+'b': "color:#55FFFF;"  # 青色
+'c': "color:#FF5555;"  # 红色
+'d': "color:#FF55FF;"  # 浅紫色
+'e': "color:#FFFF55;"  # 黄色
+'f': "color:#FFFFFF;"  # 白色
+'g': "color:#AAAAAA;"
+'h': "color:#FF5555;"
+'i': "color:#FFFFFF;"
+'j': "color:#000000;"
+'o': "font-style: italic;"
+'p': "color:#FFAAAA;"
+'q': "color:#AA00FF;"
+'s': "color:#AAAAAA;"
+'t': "color:#FF55FF;"
+'u': "color:#00AAFF;"
+'v': "color:#AAFFAA;"
+'w': "color:#FFFFFF;"
+'x': "color:#FF5555;"
+'y': "color:#FFFF55;"
+'z': "color:#0000AA;"
+'k': "width: 0px;display: inline-block;overflow: hidden;white-space: nowrap;position: relative;"
+'l': "font-weight: bold;"
+'m': "color:#000000;"
+'n': "color:#000000;"
+'r': "color:#000000;"
